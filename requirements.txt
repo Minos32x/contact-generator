@@ -1,0 +1,5 @@
+Faker==11.3.0
+phonenumbers==8.12.41
+python-dateutil==2.8.2
+six==1.16.0
+text-unidecode==1.3
